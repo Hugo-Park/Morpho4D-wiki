@@ -1,14 +1,10 @@
 # Basic Infomation
 title: Morpho4D Wiki
-description: Website for wiki and manual
+description: Official Website for Morpho4D
 remote_theme: just-the-docs/just-the-docs
 # url: 
 plugins:
   - jekyll-remote-theme
-  - jekyll-polyglot
-
-languages: ["en", "ko"]
-default_lang: "en"
 
 sans_serif: '"Helvetica Neue", Helvetica, Arial, "Apple SD Gothic Neo", "Malgun Gothic", "맑은 고딕", sans-serif'
 
