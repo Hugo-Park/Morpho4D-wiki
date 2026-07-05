@@ -44,8 +44,8 @@ search:
 
 # Aux links for the upper right navigation
 aux_links:
-  "KO": "/ko/"
-  "EN": "/en/"
+  "KO": "https://hugo-park.github.io/Morpho4D-wiki-ko/"
+  "EN": "/Morpho4D-wiki-en/docs/"
 #  "Just the Docs on GitHub":
 #    - "//github.com/just-the-docs/just-the-docs"
 
