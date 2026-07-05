@@ -4,7 +4,7 @@ title: "01.1 Installation"
 nav_order: 1
 parent: "01 Getting Started" 
 lang: en
-permalink: /en/01-getting-started/011-installation/
+permalink: /01-getting-started/011-installation/
 ---
 
 # 01.1 Installation

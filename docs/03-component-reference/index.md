@@ -4,7 +4,7 @@ title: "03 Component Reference"
 has_children: true
 nav_order: 4 
 lang: en
-permalink: /en/03-component-reference/
+permalink: /03-component-reference/
 ---
 
 # **Comomponent Reference**

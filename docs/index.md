@@ -3,10 +3,10 @@ layout: default
 title: Home
 nav_order: 1
 lang: en
-permalink: /en/home/
+permalink: /home/
 ---
 
-# **Welcome to Morpho4D Official Documentation**
+# **Morpho4D Official Documentation**
 {: .no_toc}
 
 # Introduction
