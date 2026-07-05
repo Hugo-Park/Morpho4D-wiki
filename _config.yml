@@ -1,6 +1,6 @@
 # Basic Infomation
-title: Morpho4D Wiki
-description: Official Website for Morpho4D
+title: Morpho4D Docs
+description: Official Documentation for Morpho4D
 remote_theme: just-the-docs/just-the-docs
 # url: 
 plugins:
@@ -55,4 +55,3 @@ aux_links_new_tab: false
 #
 # Supports true (default) or false
 heading_anchors: true
-
