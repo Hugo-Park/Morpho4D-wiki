@@ -7,5 +7,5 @@ lang: en
 permalink: /01-getting-started/
 ---
 
-# **Getting Started**
+# **01 Getting Started**
 {: .no_toc}

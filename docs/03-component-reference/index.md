@@ -7,5 +7,5 @@ lang: en
 permalink: /03-component-reference/
 ---
 
-# **Comomponent Reference**
+# **03 Comomponent Reference**
 {: .no_toc}

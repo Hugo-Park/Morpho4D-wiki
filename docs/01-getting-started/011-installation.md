@@ -11,7 +11,7 @@ permalink: /01-getting-started/011-installation/
 {: .no_toc}
 
 ## Rhino3D PakageManager
-{: .no_toc .text-delta}
+{: .no_toc}
 
 [PakageManager Capture Here]
 
@@ -19,7 +19,7 @@ You can use Rhino3D PakageManager to install Morpho4D.
 This is the simplist way to get add-ons on Rhino/Grasshopper.
 
 ## Food4Rhino
-{: .no_toc .text-delta}
+{: .no_toc}
 
 [Food4Rhino Capture Here]
 
